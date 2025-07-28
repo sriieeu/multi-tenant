@@ -1,2 +1,2 @@
 # multi-tenant
-Building multi-tenant app with Next.js, Clerk Inc, Drizzle and Postgresql
+Building multi-tenant blog application with Next.js, Clerk Inc, Drizzle and Postgresql
